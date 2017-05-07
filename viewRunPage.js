@@ -12,4 +12,3 @@ if (runIndex !== null)
     var runNames = [ "Run A", "Run B" ];
     document.getElementById("headerBarTitle").textContent = runNames[runIndex];
 }
-//ggygygy
